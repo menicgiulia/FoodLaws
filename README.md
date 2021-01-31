@@ -4,4 +4,4 @@ Codes to reproduce the results presented in "Universal Scaling of Nutrient Conce
 # Software Requirements
 MATLAB R2020a+
 
-Each notebook is commented with short introduction to the analysis and package requirements.
+Each notebook (.mlx) is commented with short introduction to the analysis and package requirements.
