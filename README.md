@@ -1,5 +1,5 @@
 # FoodLaws
-Codes to reproduce the results presented in "Universal Scaling of Nutrient Concentrations in Food" by G. Menichetti and A.-L. Barabasi.
+Codes to reproduce the main results presented in "Nutrient concentrations in food display universal behavior" by G. Menichetti and A.-L. Barabasi.
 
 # Software Requirements
 MATLAB R2020a+
