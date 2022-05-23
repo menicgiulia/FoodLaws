@@ -1,0 +1,100 @@
+VarName1,Nutrient_code,Nutrient_description,Unit,Decimals,factor
+1,203,"Protein",g,2,1
+2,204,"Total Fat",g,2,1
+3,205,"Carbohydrate",g,2,1
+5,221,"Alcohol",g,1,1
+6,255,"Water",g,2,1
+7,262,"Caffeine",mg,0,0.001
+8,263,"Theobromine",mg,0,0.001
+9,269,"Sugars, total",g,2,1
+10,291,"Fiber, total dietary",g,1,1
+11,301,"Calcium",mg,0,0.001
+12,303,"Iron",mg,2,0.001
+13,304,"Magnesium",mg,0,0.001
+14,305,"Phosphorus",mg,0,0.001
+15,306,"Potassium",mg,0,0.001
+16,307,"Sodium",mg,0,0.001
+17,309,"Zinc",mg,2,0.001
+18,312,"Copper",mg,3,0.001
+19,317,"Selenium",mcg,1,1e-06
+20,319,"Retinol",mcg,0,1e-06
+22,321,"Carotene, beta",mcg,0,1e-06
+23,322,"Carotene, alpha",mcg,0,1e-06
+24,323,"Vitamin E (alpha-tocopherol)",mg,2,0.001
+25,328,"Vitamin D (D2 + D3)",mcg,1,1e-06
+26,334,"Cryptoxanthin, beta",mcg,0,1e-06
+27,337,"Lycopene",mcg,0,1e-06
+28,338,"Lutein + zeaxanthin",mcg,0,1e-06
+29,401,"Vitamin C",mg,1,0.001
+30,404,"Thiamin",mg,3,0.001
+31,405,"Riboflavin",mg,3,0.001
+32,406,"Niacin",mg,3,0.001
+33,415,"Vitamin B-6",mg,3,0.001
+34,417,"Folate, total",mcg,0,1e-06
+35,418,"Vitamin B-12",mcg,2,1e-06
+36,421,"Choline, total",mg,1,0.001
+37,430,"Vitamin K (phylloquinone)",mcg,1,1e-06
+38,431,"Folic acid",mcg,0,1e-06
+39,432,"Folate, food",mcg,0,1e-06
+41,573,"Vitamin E, added",mg,2,0.001
+42,578,"Vitamin B-12, added",mcg,2,1e-06
+43,601,"Cholesterol",mg,0,0.001
+44,606,"Fatty acids, total saturated",g,3,1
+45,607,"4:0",g,3,1
+46,608,"6:0",g,3,1
+47,609,"8:0",g,3,1
+48,610,"10:0",g,3,1
+49,611,"12:0",g,3,1
+50,612,"14:0",g,3,1
+51,613,"16:0",g,3,1
+52,614,"18:0",g,3,1
+53,617,"18:1",g,3,1
+54,618,"18:2",g,3,1
+55,619,"18:3",g,3,1
+56,620,"20:4",g,3,1
+57,621,"22:6 n-3",g,3,1
+58,626,"16:1",g,3,1
+59,627,"18:4",g,3,1
+60,628,"20:1",g,3,1
+61,629,"20:5 n-3",g,3,1
+62,630,"22:1",g,3,1
+63,631,"22:5 n-3",g,3,1
+64,645,"Fatty acids, total monounsaturated",g,3,1
+65,646,"Fatty acids, total polyunsaturated",g,3,1
+66,710,"Daidzein",mg,2,0.001
+67,711,"Genistein",mg,2,0.001
+68,712,"Glycitein",mg,2,0.001
+69,731,"Cyanidin",mg,2,0.001
+70,740,"Petunidin",mg,2,0.001
+71,741,"Delphinidin",mg,2,0.001
+72,742,"Malvidin",mg,2,0.001
+73,743,"Pelargonidin",mg,2,0.001
+74,745,"Peonidin",mg,2,0.001
+75,749,"(+)-Catechin",mg,2,0.001
+76,750,"(-)-Epigallocatechin",mg,2,0.001
+77,751,"(-)-Epicatechin",mg,2,0.001
+78,752,"(-)-Epicatechin 3-gallate",mg,2,0.001
+79,753,"(-)-Epigallocatechin 3-gallate",mg,2,0.001
+80,755,"Theaflavin",mg,2,0.001
+81,756,"Thearubigins",mg,2,0.001
+82,758,"Eriodictyol",mg,2,0.001
+83,759,"Hesperetin",mg,2,0.001
+84,762,"Naringenin",mg,2,0.001
+85,770,"Apigenin",mg,2,0.001
+86,773,"Luteolin",mg,2,0.001
+87,785,"Isorhamnetin",mg,2,0.001
+88,786,"Kaempferol",mg,2,0.001
+89,788,"Myricetin",mg,2,0.001
+90,789,"Quercetin",mg,2,0.001
+91,791,"Theaflavin-3,3'-digallate",mg,2,0.001
+92,792,"Theaflavin-3'-gallate",mg,2,0.001
+93,793,"Theaflavin-3-gallate",mg,2,0.001
+94,794,"(+)-Gallocatechin",mg,2,0.001
+95,7000,"Total flavonoids",mg,2,0.001
+96,7100,"Total anthocyanidins",mg,2,0.001
+97,7200,"Total catechins (monomeric flavan-3-ols only)",mg,2,0.001
+98,7300,"Total flavan-3-ols",mg,2,0.001
+99,7400,"Total flavanones",mg,2,0.001
+100,7500,"Total flavones",mg,2,0.001
+101,7600,"Total flavonols",mg,2,0.001
+102,7700,"Total isoflavones",mg,2,0.001
